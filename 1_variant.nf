@@ -1,6 +1,6 @@
 nextflow.enable.dsl=2
 
-params.indir='/home/AhmedW/snpEff/3030243_twistwes2/nextfolwresult.vcf'
+params.indir='/home/AhmedW/snpEff/nextfolwresult.vcf'
 params.output='/home/AhmedW/snpEff/nextfolwresult'
 params.snpEff="/home/AhmedW/snpEff"
 params.memory="-Xmx8g"
