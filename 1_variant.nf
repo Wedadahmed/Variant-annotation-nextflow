@@ -1,10 +1,10 @@
 nextflow.enable.dsl=2
 
-params.indir='/home/AhmedW/snpEff/3030243_twistwes2/nextfolwresult/3030243_twistwes2-gatk-haplotype.vcf'
-params.output='/home/AhmedW/snpEff/3030243_twistwes2/nextfolwresult'
+params.indir='/home/AhmedW/snpEff/3030243_twistwes2/nextfolwresult.vcf'
+params.output='/home/AhmedW/snpEff/nextfolwresult'
 params.snpEff="/home/AhmedW/snpEff"
 params.memory="-Xmx8g"
-params.clinvar_vcf="/home/AhmedW/ClinVar/clinvar_20230520.vcf"
+params.clinvar_vcf="/home/AhmedW/ClinVar/clinvar_20230520/name.vcf"
 params.python_script="/home/AhmedW/scripts/variant.py"
 
 
