@@ -1,8 +1,8 @@
 nextflow.enable.dsl=2
 
-params.indir='/home/AhmedW/snpEff/3030243_twistwes2/vcf_input/*.vcf'
+params.indir='/home/AhmedW/snpEff/vcf_input/*.vcf'
 
-params.output='/home/AhmedW/snpEff/3030243_twistwes2/nextfolwresult/'
+params.output='/home/AhmedW/snpEff/nextfolwresult/'
 params.snpEff="/home/AhmedW/snpEff"
 params.memory="-Xmx8g"
 params.clinvar_vcf="/home/AhmedW/ClinVar/clinvar_20230520.vcf"
